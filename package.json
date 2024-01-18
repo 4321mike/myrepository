@@ -1,0 +1,22 @@
+{
+  "name": "first-server",
+  "version": "1.0.0",
+  "description": "my first  node js server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4321mike/html-class.git"
+  },
+  "author": "mike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4321mike/html-class/issues"
+  },
+  "homepage": "https://github.com/4321mike/html-class#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
